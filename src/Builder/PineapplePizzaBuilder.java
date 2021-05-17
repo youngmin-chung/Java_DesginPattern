@@ -1,3 +1,7 @@
+package Builder;
+
+import Builder.Crust;
+
 public class PineapplePizzaBuilder implements PizzaBuilder {
     private Crust crust = Crust.SICILIAN;
     private Sauce sauce = Sauce.WHITE_GARLIC;

@@ -1,7 +1,9 @@
-// Concrete Builder
+package Builder;// Concrete Builder
 // 1. constructs and assembles parts of the product by implementing the Builder interface
 // 2. defines and keeps track of the representation it creates
 // 3. provides an interface for retrieving the product (e.g. GET methods)
+
+import Builder.Crust;
 
 public class MargaritaPizzaBuilder implements PizzaBuilder {
     private Crust crust = Crust.HAND_TOSSED;

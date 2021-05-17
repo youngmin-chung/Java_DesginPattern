@@ -1,5 +1,6 @@
-// Director: Construct an object using the Builder infterface
+package Builder;
 
+// Director: Construct an object using the Builder interface
 public class Pizza {
     private final Size size;
     private final Crust crust;
@@ -26,50 +27,6 @@ public class Pizza {
         this.peperoni = peperoni;
         this.pineapple = pineapple;
         this.seasoning = seasoning;
-    }
-
-    public Size getSize() {
-        return size;
-    }
-
-    public Crust getCrust() {
-        return crust;
-    }
-
-    public Sauce getSauce() {
-        return sauce;
-    }
-
-    public boolean isExtraCheese() {
-        return extraCheese;
-    }
-
-    public boolean isJalapeno() {
-        return jalapeno;
-    }
-
-    public boolean isPepper() {
-        return pepper;
-    }
-
-    public boolean isCorn() {
-        return corn;
-    }
-
-    public boolean isTomato() {
-        return tomato;
-    }
-
-    public boolean isPeperoni() {
-        return peperoni;
-    }
-
-    public boolean isPineapple() {
-        return pineapple;
-    }
-
-    public boolean isSeasoning() {
-        return seasoning;
     }
 
     @Override

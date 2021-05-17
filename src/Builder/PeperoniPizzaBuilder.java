@@ -1,10 +1,12 @@
-// Product: represents the complex object under construction. ConcreteBuilder
+package Builder;// Product: represents the complex object under construction. ConcreteBuilder
 //             builds the product's internal representation and defines the
 //             process by which it's assembled.
 //          includes classes that define the constituent parts, including
 //             interfaces for assembling the parts into the final result.
 
-public class PeperoniPizzaBuilder implements PizzaBuilder{
+import Builder.Crust;
+
+public class PeperoniPizzaBuilder implements PizzaBuilder {
 
     private Crust crust = Crust.CHEESE_FILLED;
     private Sauce sauce = Sauce.MEXICAN;
