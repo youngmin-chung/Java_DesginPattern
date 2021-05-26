@@ -6,6 +6,6 @@
 * Builder: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Builder)
 * Prototype: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Prototype)
 ### Structural
-
+* Adapter: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Adapter)
 ### Behavioural
 * Strategy: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Strategy)
