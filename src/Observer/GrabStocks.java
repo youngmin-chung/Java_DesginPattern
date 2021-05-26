@@ -25,19 +25,19 @@ public class GrabStocks {
         stockGrabber.setAPPLPrice(231.00);
         stockGrabber.setGOOGPrice(2451.00);
 
-        StockObserver observer2 = new StockObserver(stockGrabber);
-
-        stockGrabber.setIBMPrice(192.00);
-        stockGrabber.setAPPLPrice(232.00);
-        stockGrabber.setGOOGPrice(2452.00);
-
-        // Delete one of the observers
-
-        // stockGrabber.unregister(observer2);
-
-        stockGrabber.setIBMPrice(193.00);
-        stockGrabber.setAPPLPrice(233.00);
-        stockGrabber.setGOOGPrice(2453.00);
+//        StockObserver observer2 = new StockObserver(stockGrabber);
+//
+//        stockGrabber.setIBMPrice(192.00);
+//        stockGrabber.setAPPLPrice(232.00);
+//        stockGrabber.setGOOGPrice(2452.00);
+//
+//        // Delete one of the observers
+//
+//        // stockGrabber.unregister(observer2);
+//
+//        stockGrabber.setIBMPrice(193.00);
+//        stockGrabber.setAPPLPrice(233.00);
+//        stockGrabber.setGOOGPrice(2453.00);
 
         // Create 3 threads using the Runnable interface GetTheStock implements Runnable, so it doesn't waste
         // its one extendable class option
