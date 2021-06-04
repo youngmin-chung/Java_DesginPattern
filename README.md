@@ -8,5 +8,6 @@
 ### Structural
 * Adapter: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Adapter)
 * Bridge: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Bridge)
+* Composite: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Composite)
 ### Behavioural
 * Strategy: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Strategy)
