@@ -12,5 +12,6 @@
 * Decorator: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Decorator)
 * Facade: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Facade)
 * Flyweight: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Flyweight)
+* Proxy: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Proxy)
 ### Behavioural
 * Strategy: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Strategy)
