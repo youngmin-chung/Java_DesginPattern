@@ -12,7 +12,7 @@ public final class Singleton {
 
     }
 
-    // the getInstance method is public so that other classses can call this method.
+    // the getInstance method is public so that other classes can call this method.
     // It is also static so that the calling classes doesn't require an object to
     // this method
     public static Singleton getInstance(){
@@ -22,7 +22,5 @@ public final class Singleton {
     public void sayHello(){
         System.out.println("Hello From Singleton");
     }
-
-
 
 }
