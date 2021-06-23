@@ -18,3 +18,4 @@
 * Chain Of Responsibility: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/ChainOfRes)
 * Command: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Command)
 * Interpreter: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Interpreter)
+* Iterator: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Iterator)
