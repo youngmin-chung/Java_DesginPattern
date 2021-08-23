@@ -22,3 +22,5 @@
 * Mediator: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Mediator)
 * Memento: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Memento)
 * Observer: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Observer)
+* Strategy: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/Strategy)
+* TemplateMethod: [Example Code](https://github.com/youngmin-chung/Java_DesginPattern/tree/main/src/TemplateMethod)
