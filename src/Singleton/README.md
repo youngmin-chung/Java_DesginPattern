@@ -10,3 +10,4 @@
 
 ### Applicability
 * Use the Singleton pattern when there must by exactly one instance of a class, and it must be accessible from a well-known point.
+* 
